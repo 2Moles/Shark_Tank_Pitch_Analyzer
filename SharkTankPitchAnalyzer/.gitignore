@@ -1,0 +1,56 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+.ENV
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data and Results
+data/audio/*
+data/results/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+*.exe
+
+# Temp files
+*.tmp
+*.temp
+test_*.py
