@@ -382,4 +382,4 @@ This tool provides AI-generated analysis and should be used as one input among m
 
 ---
 
-**Built with 🦈 by the AI Community**
+**Built with 🦈 **
