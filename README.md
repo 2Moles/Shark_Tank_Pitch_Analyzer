@@ -1,8 +1,9 @@
-# Shark Tank Pitch Analyzer 🦈
+<img width="1111" height="628" alt="image" src="https://github.com/user-attachments/assets/9ffcf48a-5f3b-4d71-beb1-f73184b642ac" /># Shark Tank Pitch Analyzer 🦈
 
 An AI-powered analysis tool for evaluating Shark Tank-style pitches using open-source technology. Get comprehensive feedback from multiple investor personas on your pitch's vocal delivery and business content.
 
 ## Features
+
 
 ### 🎤 Audio Analysis
 - **Vocal Feature Extraction** (Librosa)
